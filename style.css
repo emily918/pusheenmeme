@@ -1,0 +1,53 @@
+body{
+    background-color: #FCF0E4;
+}
+.Contacts{
+    color: #CD2C58;
+    text-align: center;
+}
+h3{
+    color: #CD2C58;
+    text-align: left;
+}
+h2{
+    color: #CD2C58;
+    text-align: left;
+}
+.ira{
+    color: #CD2C58;
+    text-align: left;
+    display: block;
+    margin-top: 10px;
+}
+.emma{
+    color: #CD2C58;
+    text-align: left;
+    display: block;
+    margin-top: 10px;
+}
+.ivan{
+    color: #CD2C58;
+    text-align: left;
+    display: block;
+    margin-top: 10px;
+}
+.Question{
+    color: #CD2C58;
+    text-align: right;
+    display: block;
+    margin-top: 10px;
+}
+.Questions{
+    color: #CD2C58;
+    text-align: right;
+    display: block;
+}
+.flowers{
+    float: left;
+    margin-right: 15px;
+    max-width: 200px;
+    height: auto;
+    position: relative;
+    top: -20px;
+    left: 30px;
+}
